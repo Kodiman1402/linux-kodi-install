@@ -1,1 +1,1 @@
-# linunx-kodi-install
+# linux-kodi-install
