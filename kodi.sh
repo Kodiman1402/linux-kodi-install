@@ -14,4 +14,4 @@ exit
 
 # Skript ausfÃ¼hrbar machen mit: sudo chmod +x kodi.sh
 # Skript starten mit: sudo sh kodi.sh oder sudo ./kodi.sh
-# Getestet aud Debian / Kali Linux
+# Getestet auf Debian / Kali Linux
